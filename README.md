@@ -1,4 +1,4 @@
-# spring-test Node app
+# spring-test node app
 
 **Prerequisites:**
 [NodeJS](https://nodejs.org/en/) || 
@@ -11,7 +11,7 @@
 To install this example application, clone this repository with Git:
 
 ```bash
-git clone https://github.com/tarikulcse2/spring-app.git
+git clone https://github.com/tarikulcse2/spring-app-node-server.git
 ```
 
 ## Database Connection
