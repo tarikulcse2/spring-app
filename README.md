@@ -1,8 +1,7 @@
-# spring-app Node and React App
+# spring-test Node app
 
 **Prerequisites:**
 [NodeJS](https://nodejs.org/en/) || 
-[React CLI](https://reactjs.org/) ||
 [MySql 8.0](https://dev.mysql.com/doc/relnotes/mysql/8.0/en/)
 
 **Code Editing:** 
@@ -26,15 +25,3 @@ npm i
 npm start
 ```
 node server run http://localhost:3030 
-
-### Client-Side Application Run
-```bash
-cd client
-npm install
-npm start
-```
-react server run http://localhost:3000 
-
-### Start the application
-
-Browse to `http://localhost:3000` to test the application.
